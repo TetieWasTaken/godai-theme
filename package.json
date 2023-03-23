@@ -1,0 +1,21 @@
+{
+  "name": "godai-theme",
+  "displayName": "Godai Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Godai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Godai Theme-color-theme.json"
+      }
+    ]
+  }
+}
